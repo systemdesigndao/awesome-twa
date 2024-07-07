@@ -18,5 +18,5 @@ Image generated from [CastilosDuck Animated Telegram Stickers Pack](https://t.me
 
 ### FT
 
-- [@dedust](https://t.me/dedust)
-- [@notcoin](https://t.me/notcoin)
+- [@dedustBot](https://t.me/dedustBot)
+- [@notcoin_bot](https://t.me/notcoin_bot)
