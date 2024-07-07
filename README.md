@@ -9,14 +9,14 @@ Image generated from [CastilosDuck Animated Telegram Stickers Pack](https://t.me
 
 - [Projects](#projects)
   - [NFT](#nft)
+  - [FT](#ft)
 
 ## Projects
 
 ### NFT
 - [@glabs_explorer_bot](https://t.me/glabs_explorer_bot)
 
---- 
+### FT
 
-Join us on this exhilarating journey as we explore the world of Telegram Web Apps together!  
-This list is continuously growing, thanks to the contributions and creativity of our vibrant community of enthusiasts.  
-Embrace the power of Telegram Web Apps with us! 🚀🌟
+- [@dedust](https://t.me/dedust)
+- [@notcoin](https://t.me/notcoin)
